@@ -39,7 +39,8 @@ Create a simple JavaScript program that takes a student's score as input and ret
 
 ### Task-4
 
-if you get more then 80 then inside your friend score. 
+if you get more then 80 then inside your friend score.
+
     If your friend get more than 80. then go for a lunch. 
     if your friend get below 80 but greater than or equal 60 then tell your friend, good luck next time. 
     if your friend get less than 60 but more than or equal to 40 then, keep your friend's message unseen.
