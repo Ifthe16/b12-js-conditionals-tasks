@@ -1,14 +1,14 @@
 # JavaScript Conditionals Practice Tasks
 
-## Task-1
+### Task-1
 
-**Free Drinks**
+Free Drinks
     - Burger more than 500tk: free Coke
     - Else Coke: 30tk
 
 ---
 
-## Task-2
+### Task-2
 
 **BMI Calculator and Health Category**
 
@@ -19,5 +19,5 @@ Create a JavaScript program that calculates the Body Mass Index (BMI) and assign
     - BMI >= 18.5 and BMI <=24.9, you are normal.
     - BMI >=25 and BMI <= 29.9, you are overweight.
     - Otherwise, you are obese.
-    
+
 ---
