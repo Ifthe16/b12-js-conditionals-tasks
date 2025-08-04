@@ -1,4 +1,4 @@
-const marks = 100;
+const marks = 44;
 
 if (marks >= 90 && marks <= 100) {
     console.log('A');
