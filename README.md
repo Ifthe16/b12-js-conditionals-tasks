@@ -47,4 +47,5 @@ if you get more then 80 then inside your friend score.
 if you get less than 80 go to home and sleep and act sad
 
 **Note:** 
+
 use nested if-else-if-else
